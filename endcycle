@@ -1,0 +1,2 @@
+System.exit(0);
+该方法会直接终止App进程，但不会保证执行其他清理工作，也不能保证数据的完整性。因此，在正常情况下，请使用Activity.finish()或者Process.killProcess()等方法来结束App。
