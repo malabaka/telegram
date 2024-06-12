@@ -1,0 +1,1 @@
+这个程序定义了一个名为"HelloWorld"的公共类，并在其中定义了一个名为"main"的公共静态方法。该方法接受一个String类型的数组参数，并使用System.out.println()方法输出字符串"Hello, World!"。这个程序可以通过Java编译器编译成字节码文件，并执行
